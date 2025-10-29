@@ -50,6 +50,4 @@ Explore transactions, events, and contract details using the link above.
 
 ---
 
-## 🧑‍💻 Smart Contract Code  
 
-```solidity
