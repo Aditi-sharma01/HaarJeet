@@ -3,6 +3,7 @@
 ### 🎰 *A decentralized coin-flip betting experience built with Solidity*  
 
 ---
+![WhatsApp Image 2025-10-29 at 13 58 42_cb9d0810](https://github.com/user-attachments/assets/2a856d99-8ed2-4ce2-9ce7-b9d49412bee5)
 
 ## 📖 Project Description  
 
@@ -52,4 +53,3 @@ Explore transactions, events, and contract details using the link above.
 ## 🧑‍💻 Smart Contract Code  
 
 ```solidity
-//paste your code
